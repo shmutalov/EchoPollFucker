@@ -1,0 +1,5 @@
+C:\Users\Sherzod Mutalov\RiderProjects\EchoPollFucker\EchoPollFucker\bin\Release\EchoPollFucker.exe
+C:\Users\Sherzod Mutalov\RiderProjects\EchoPollFucker\EchoPollFucker\bin\Release\EchoPollFucker.pdb
+C:\Users\Sherzod Mutalov\RiderProjects\EchoPollFucker\EchoPollFucker\obj\Release\EchoPollFucker.csprojResolveAssemblyReference.cache
+C:\Users\Sherzod Mutalov\RiderProjects\EchoPollFucker\EchoPollFucker\obj\Release\EchoPollFucker.exe
+C:\Users\Sherzod Mutalov\RiderProjects\EchoPollFucker\EchoPollFucker\obj\Release\EchoPollFucker.pdb

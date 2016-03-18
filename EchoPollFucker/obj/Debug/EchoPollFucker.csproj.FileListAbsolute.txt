@@ -1,0 +1,5 @@
+C:\Users\Sherzod Mutalov\RiderProjects\EchoPollFucker\EchoPollFucker\bin\Debug\EchoPollFucker.exe
+C:\Users\Sherzod Mutalov\RiderProjects\EchoPollFucker\EchoPollFucker\bin\Debug\EchoPollFucker.pdb
+C:\Users\Sherzod Mutalov\RiderProjects\EchoPollFucker\EchoPollFucker\obj\Debug\EchoPollFucker.csprojResolveAssemblyReference.cache
+C:\Users\Sherzod Mutalov\RiderProjects\EchoPollFucker\EchoPollFucker\obj\Debug\EchoPollFucker.exe
+C:\Users\Sherzod Mutalov\RiderProjects\EchoPollFucker\EchoPollFucker\obj\Debug\EchoPollFucker.pdb
